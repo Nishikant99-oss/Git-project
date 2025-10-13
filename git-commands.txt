@@ -4,6 +4,7 @@ git add .
  git commit -m "commit massage"
  git restore
  git remote -v
-  522  git remote set-url origin https://ghp@github.com/Nishikant99-oss/Git-project.git
-  523  git remote -v
-  524  git push origin master
+ git remote add origin https://github.com/Nishikant99-oss/Git-project.git
+git remote set-url origin https://ghp@github.com/Nishikant99-oss/Git-project.git
+git remote -v
+git push origin master

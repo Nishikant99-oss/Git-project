@@ -1,5 +1,9 @@
 git init
 git status
 git add .
- git commit -m "____"
+ git commit -m "commit massage"
  git restore
+ git remote -v
+  522  git remote set-url origin https://ghp@github.com/Nishikant99-oss/Git-project.git
+  523  git remote -v
+  524  git push origin master
